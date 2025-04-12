@@ -27,5 +27,4 @@ if st.button("Generate Password"):
 
 st.write("---------------------")
 
-st.write("Build with ❤️ by Kashan Malik")
-st.write('Github: "https://github.com/aosxkailord"')
+
