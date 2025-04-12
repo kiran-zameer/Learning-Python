@@ -17,7 +17,7 @@ def convert_unit(value, unit_form, unit_to):
     else: 
         return "Conversion not supported"
     
-st.title("Unit Converter - Kashan Malik")
+st.title("Unit Converter")
 
 value = st.number_input("Enter the value to convert:")
 
